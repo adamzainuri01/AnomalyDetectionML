@@ -3,6 +3,22 @@
 ## General Information
 A classification and regression approach to detect anomalies in oil and gas pipelines made with python using various different models. The dataset used were obtained from https://github.com/Abimbola-ai/Oil-and-gas-pipeline-leakage
 
+## Machine Learning Model Used
+### Classification Model
+1. Random Forest
+2. Decision Tree
+3. Support Vector Machine
+4. XGBoost
+5. K-Nearest Neighbor
+6. Multi Layer Perceptron
+### Regression Model
+1. Random Forest
+2. Decision Tree
+3. Elastic Net
+4. XGBoost
+5. K-Nearest Neighbor
+6. Multi Layer Perceptron
+
 ## Running Program Locally
 ### Required Modules
 1. pandas
